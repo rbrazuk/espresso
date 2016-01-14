@@ -1,6 +1,3 @@
-package com.rbrazuk;
-
-
 import java.util.Random;
 
 public class LoginUtils {
